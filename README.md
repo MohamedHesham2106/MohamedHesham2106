@@ -24,10 +24,14 @@
 <br/>
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=MohamedHesham2106&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=MohamedHesham2106&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedHesham2106&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" />
 </a>
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHesham2106&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHesham2106&hide=php&theme=tokyonight&hide_border=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHesham2106&hide=php&theme=tokyonight&hide_border=true&layout=compact" />
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=MohamedHesham2106&theme=dark&count_private=true">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedHesham2106&theme=tokyonight&count_private=true&hide_border=true"/>      
 </a>
 </div>
 </details>
