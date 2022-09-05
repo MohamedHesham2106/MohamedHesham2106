@@ -31,7 +31,7 @@
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=MohamedHesham2106&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHesham2106&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHesham2106&hide=php&theme=tokyonight&hide_border=true&&count_private=true&layout=compact&card_width=445" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHesham2106&hide=php&theme=tokyonight&hide_border=true&layout=compact&card_width=445" />
 </a>
 
 
