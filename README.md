@@ -9,7 +9,7 @@
 ## I'm a Frontend Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about NextJS and TypeScript
+- 🥅 2023 Goals: Graduate with GPA 3.9+
 - ⚡ Fun fact: I love gaming and working out
 
 ### Spotify Playing 🎧
