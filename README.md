@@ -6,11 +6,10 @@
 
 <div align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></div>
 
-## I'm a Frontend Developer!!
+## I'm a Full Stack Web Developer.
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Graduate with GPA 3.9+
-- ⚡ Fun fact: I love gaming and working out
+- 2023 Achievement: Graduated with GPA 3.92 n learnt typescript with Next.js
+- Fun fact: I love gaming and working out
 
 ### Spotify Playing 🎧
 
