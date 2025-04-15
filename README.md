@@ -6,9 +6,8 @@
 
 <div align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></div>
 
-## I'm a Full Stack Web Developer.
+## I'm a Frontend Web Developer.
 
-- 2023 Achievement: Graduated with GPA 3.92, Mastered Typescript, Next.js 
 - Hobbies: I love gaming, working out and created fun apps and websites!
 
 
