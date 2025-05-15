@@ -78,8 +78,6 @@
 ---
 
 ## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=MohamedHesham2106&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHesham2106&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -103,8 +101,7 @@
 - 🏋️‍♂️ Love lifting weights almost as much as lifting code quality.
 - 🎯 Always pushing for pixel-perfect UIs and smooth user experiences.
 - 🍕 Big fan of pizza — brainstorming + coding + pizza = best combo.
-- 🗺️ Dreaming of traveling to Japan someday 🇯🇵.
-- ✍️ Favorite quote: *"Code is like humor. When you have to explain it, it’s bad."*
+
 
 ---
 
