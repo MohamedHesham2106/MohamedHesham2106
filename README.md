@@ -8,14 +8,6 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
-## 👨‍💻 About Me
-- 🌟 Frontend Web Developer passionate about crafting smooth and scalable web experiences.
-- 🎮 Hobbies: Gaming, working out, building fun apps and websites.
-- 🚀 Always eager to learn new technologies and push my boundaries.
-- ✨ Dreaming of making a positive impact with technology.
-
----
-
 ## 🛠️ Skills & Tech Stack
 
 ### Languages
@@ -62,9 +54,6 @@
 
 ## 🛠️ Experience
 
-- **Open Source Intern — ITI** (Jun 2022 – Aug 2022)  
-  ✨ Built frontend tools, optimized assets, and collaborated using Git.
-
 - **FWD Advanced Web Development Track** (Jun 2022 – Sep 2022)  
   🔥 Built backend services with Node.js and PostgreSQL, applied TDD, and implemented CI/CD pipelines.
 
@@ -92,15 +81,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamedhesham-swd.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-hesham-ramadan)
-
----
-
-## 😄 Fun Facts
-
-- 🕹️ Huge gaming enthusiast — RPGs and FPS are my favorite!
-- 🏋️‍♂️ Love lifting weights almost as much as lifting code quality.
-- 🎯 Always pushing for pixel-perfect UIs and smooth user experiences.
-- 🍕 Big fan of pizza — brainstorming + coding + pizza = best combo.
 
 
 ---
