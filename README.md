@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejY4bXZjNnR6NXJpcHkxdW5peWczZXpzb3hqbHlsd2pienhwdmpwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
 ## 🛠️ Skills & Tech Stack
@@ -32,8 +32,8 @@
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)                
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)                
 
 ### Tools
 ![Git](https://img.shields.io/badge/git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
@@ -43,37 +43,8 @@
 
 ---
 
-## 🎓 Education
-
-- 🎓 **Bachelor of Computer Science** — Alexandria University (2019–2023)  
-  *Specialization: Software Industrial & Multimedia | CGPA: 3.91/4.0*
-
-- 📚 **Open Source Application Development Professional Training Program** — ITI (2024–2025)
-
----
-
-## 🛠️ Experience
-
-- **FWD Advanced Web Development Track** (Jun 2022 – Sep 2022)  
-  🔥 Built backend services with Node.js and PostgreSQL, applied TDD, and implemented CI/CD pipelines.
-
----
-
-## 🏆 Achievements & Highlights
-
-- 🏅 Achieved a CGPA of 3.91/4.0 during Bachelor's degree.
-- 🌟 Built scalable, production-ready applications using modern web technologies.
-
----
-
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHesham2106&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MohamedHesham2106&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
@@ -81,8 +52,3 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamedhesham-swd.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-hesham-ramadan)
-
-
----
-
-[![](https://visitcount.itsvg.in/api?id=MohamedHesham2106&icon=0&color=12)](https://visitcount.itsvg.in)
